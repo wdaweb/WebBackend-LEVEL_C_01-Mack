@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6092208&assignment_repo_type=AssignmentRepo)
 # PHP 資料庫網頁設計 - 網頁排版編輯 - 課後評量
 
 ## 考試內容
@@ -17,11 +16,11 @@
 ## 應考相關事項：
 
 1. **應考日期與作答時間**：
-   -  110 年 11 ⽉ 10 日於教室原地作答編寫
+   -  111 年 05 ⽉ 05 日於教室原地作答編寫
    - 應考時間為兩小時三十分為限（含檔案上傳至 Github Classroom）
    - 作答期間禁止舞弊或事先完成進行複製、重製、參閱等行為，違者一律０分評比。
 2. **驗收方式**：
-   - 完成作答時自行使用 live Server 套件或任何 WebServer(自行架設)提供運作畫面檢測，呼喊評分老師進行一對一現場計分。
+   - 完成作答時自行使用 live Server 套件或任何 WebServer(自行架設)提供運作畫面檢測，請評分老師進行一對一現場計分。
    - 計分完成後，上傳檔案至指定之 Github Classroom 之學員個人 repository，若未完成此步驟者，視同未完成作業而放棄分數。
 
 ## 評分說明：
@@ -37,4 +36,4 @@
    - 不符合試題功能要求標示為 ▲ 符號者扣 1 分
 
 ## 檔案上傳方式
-評分完畢前，將完整代碼上傳 Github ClassRoom 至指定 repository。
+評分完畢前，將完整程式碼上傳 Github ClassRoom 至指定 repository。
